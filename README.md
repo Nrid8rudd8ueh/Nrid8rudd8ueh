@@ -3,9 +3,9 @@
 ## Personal Information
 
 - Name: John Doe
-- GitHub Profile: github.com/johndoe
-- Email: johndoe@example.com
-- Phone: (123) 456-7890
+- GitHub Profile: github.com/Nrid8rudd8ueh
+- Email:  kb153700@gmail.com 
+- Phone: +98 921 607 9392
 
 ## Summary
 
@@ -21,5 +21,6 @@ Passionate and dedicated individual, currently learning programming and deeply i
 - Strong communication and teamwork
 
 ## Contact me 
-Discord:
+Discord: Pegasus#5092
+Telegram: @Hde7hd
 
