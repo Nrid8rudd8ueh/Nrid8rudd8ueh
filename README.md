@@ -2,7 +2,7 @@
 
 ## Personal Information
 
-- Name: John Doe
+- Name: Pegasus17
 - GitHub Profile: github.com/Nrid8rudd8ueh
 - Email:  kb153700@gmail.com 
 - Phone: +98 921 607 9392
